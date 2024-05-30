@@ -1,6 +1,6 @@
 # doctor_appointment
 
-A new Flutter project.
+A new Flutter project. Slicing UI from Figma Design Doctor Appointment
 
 ## Getting Started
 
